@@ -1,0 +1,19 @@
+.proflile_navbar {
+    ul {
+        a {
+            background: #f8f8f8 !important;
+            padding: 10px 15px;
+            border-radius: 5px;
+
+            &:hover {
+                // background: #7635F9 !important;
+                background: rgb(118,53,240) !important;
+                background: linear-gradient(138deg, rgba(118,53,240,1) 29%, rgba(131,53,240,1) 95%) !important;
+                * {
+                    color: white !important;
+
+                }
+            }
+        }
+    }
+}

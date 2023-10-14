@@ -1,0 +1,38 @@
+
+@font-face {
+    font-family: Colaborate;
+    src: url("./assets/fonts/colaborate/ColabReg.otf");
+}
+
+@font-face {
+    font-family: Colaborate Med;
+    src: url("./assets/fonts/colaborate/ColabMed.otf");
+}
+
+@font-face {
+    font-family: Colaborat Lig;
+    src: url("./assets/fonts/colaborate/ColabLig.otf");
+}
+
+.fw-lig {
+    font-family: Colaborat Lig !important;
+}
+
+.fw-Med {
+    font-family: Colaborat Med !important;
+}
+body{
+    font-family: Colaborate !important;
+}
+
+
+ul{
+    li{
+        list-style: none;
+    }
+}
+
+a{
+    text-decoration: none !important;
+    color: rgb(75, 75, 75) !important;
+}
